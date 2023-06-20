@@ -1,0 +1,7 @@
+C:\Users\arzuv\source\repos\ToDoUygulamasi\ToDoUygulamasi\bin\Debug\ToDoUygulamasi.pdb
+C:\Users\arzuv\source\repos\ToDoUygulamasi\ToDoUygulamasi\obj\Debug\ToDoUygulamasi.csproj.AssemblyReference.cache
+C:\Users\arzuv\source\repos\ToDoUygulamasi\ToDoUygulamasi\obj\Debug\ToDoUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\arzuv\source\repos\ToDoUygulamasi\ToDoUygulamasi\obj\Debug\ToDoUygulamasi.pdb
+C:\Users\arzuv\source\repos\ToDoUygulamasi\ToDoUygulamasi\bin\Debug\ToDoUygulamasi.dll.config
+C:\Users\arzuv\source\repos\ToDoUygulamasi\ToDoUygulamasi\bin\Debug\ToDoUygulamasi.dll
+C:\Users\arzuv\source\repos\ToDoUygulamasi\ToDoUygulamasi\obj\Debug\ToDoUygulamasi.dll
